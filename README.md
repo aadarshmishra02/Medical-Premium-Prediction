@@ -4,6 +4,7 @@ This project involves building an insurance cost prediction application using ma
 Project Structure
 1. Data Exploration and Preprocessing
 Reading the Dataset: The dataset is read into a pandas DataFrame to facilitate data manipulation and analysis.
+
 Data Visualization: The distribution of variables such as age, number of children, sex, smoking status, and region is visualized using seaborn plots. A box plot is used to visualize the distribution of insurance charges.
 
 Handling Outliers: Insurance charges above a certain threshold are treated as outliers and removed to prevent them from skewing the analysis and model training.
